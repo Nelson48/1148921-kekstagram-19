@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Павел Уваров](https://up.htmlacademy.ru/javascript/19/user/1148921).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Макаров](https://htmlacademy.ru/profile/deepspiral).
 
 ---
 
